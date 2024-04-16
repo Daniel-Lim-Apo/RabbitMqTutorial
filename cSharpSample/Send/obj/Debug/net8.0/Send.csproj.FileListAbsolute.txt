@@ -1,0 +1,17 @@
+C:\Users\daniel.apo\Desktop\RabbitMQ\cSharpSample\Send\bin\Debug\net8.0\Send.exe
+C:\Users\daniel.apo\Desktop\RabbitMQ\cSharpSample\Send\bin\Debug\net8.0\Send.deps.json
+C:\Users\daniel.apo\Desktop\RabbitMQ\cSharpSample\Send\bin\Debug\net8.0\Send.runtimeconfig.json
+C:\Users\daniel.apo\Desktop\RabbitMQ\cSharpSample\Send\bin\Debug\net8.0\Send.dll
+C:\Users\daniel.apo\Desktop\RabbitMQ\cSharpSample\Send\bin\Debug\net8.0\Send.pdb
+C:\Users\daniel.apo\Desktop\RabbitMQ\cSharpSample\Send\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\daniel.apo\Desktop\RabbitMQ\cSharpSample\Send\obj\Debug\net8.0\Send.csproj.AssemblyReference.cache
+C:\Users\daniel.apo\Desktop\RabbitMQ\cSharpSample\Send\obj\Debug\net8.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.apo\Desktop\RabbitMQ\cSharpSample\Send\obj\Debug\net8.0\Send.AssemblyInfoInputs.cache
+C:\Users\daniel.apo\Desktop\RabbitMQ\cSharpSample\Send\obj\Debug\net8.0\Send.AssemblyInfo.cs
+C:\Users\daniel.apo\Desktop\RabbitMQ\cSharpSample\Send\obj\Debug\net8.0\Send.csproj.CoreCompileInputs.cache
+C:\Users\daniel.apo\Desktop\RabbitMQ\cSharpSample\Send\obj\Debug\net8.0\Send.csproj.CopyComplete
+C:\Users\daniel.apo\Desktop\RabbitMQ\cSharpSample\Send\obj\Debug\net8.0\Send.dll
+C:\Users\daniel.apo\Desktop\RabbitMQ\cSharpSample\Send\obj\Debug\net8.0\refint\Send.dll
+C:\Users\daniel.apo\Desktop\RabbitMQ\cSharpSample\Send\obj\Debug\net8.0\Send.pdb
+C:\Users\daniel.apo\Desktop\RabbitMQ\cSharpSample\Send\obj\Debug\net8.0\Send.genruntimeconfig.cache
+C:\Users\daniel.apo\Desktop\RabbitMQ\cSharpSample\Send\obj\Debug\net8.0\ref\Send.dll
